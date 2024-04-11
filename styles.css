@@ -1,0 +1,45 @@
+#titulo{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(229, 102, 102);
+}
+
+.principal{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.hometitulo{
+    color: darkblue;
+    text-align: center;
+    background-color: rgb(144, 91, 169);
+}
+
+.subtituloshome{
+    color: rgb(30, 59, 26);
+}
+
+.contactostitulo{
+    color: darkblue;
+    text-align: center;
+    background-color: rgb(185, 118, 204);
+}
+
+.subtituloscontactos{
+    color: rgb(122, 69, 50);
+}
+
+.nosotrostitulo{
+    color: rgb(15, 15, 33);
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.margen{
+    margin: 1cm;
+    background: rgb(159, 86, 157)
+}
+
+*{
+    background-color: rgb(161, 190, 189);
+}
